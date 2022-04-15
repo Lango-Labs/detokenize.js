@@ -1,4 +1,6 @@
 # detokenize.js
+Part of <a href="https://lango-corner.com" target="_blank">LangoCorner</a>.
+
 Joins tokens into a sentence. Supports English and Russian.
 
 ```ts
