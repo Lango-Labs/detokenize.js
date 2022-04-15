@@ -24,3 +24,5 @@ detokenizeSentence([
 ```
 
 Pass 'en' or 'ru' as a second argument to define the language explicitly.
+
+MIT License.
